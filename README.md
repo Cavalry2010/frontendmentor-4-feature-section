@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-4-card-feature-section-using-css-grid-VMspa0Eg9E)
 - Live Site URL: [4 Card Feature Section](https://4-feature-section-alejandro.netlify.app)
 
 ## My process
